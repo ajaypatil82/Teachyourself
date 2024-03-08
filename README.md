@@ -1,2 +1,2 @@
 # Teachyourself
-Learning coding
+Learn coding
